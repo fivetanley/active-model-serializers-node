@@ -1,0 +1,32 @@
+{
+  "name": "active-model-serializers",
+  "version": "0.1.0",
+  "description": "Active Model Serializers for Node. Provides you with a nice DSL for serializing objects in a JSON api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fivetanley/active-model-serializers-node.git"
+  },
+  "keywords": [
+    "active",
+    "model",
+    "serializers",
+    "json",
+    "api",
+    "serializer"
+  ],
+  "author": "Stanley Stuart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fivetanley/active-model-serializers-node/issues"
+  },
+  "homepage": "https://github.com/fivetanley/active-model-serializers-node",
+  "dependencies": {
+    "inflected": "^1.1.6",
+    "lodash": "^3.4.0",
+    "rsvp": "^3.0.17"
+  }
+}
